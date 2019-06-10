@@ -1,5 +1,3 @@
-package cn.croff;
-
 import java.util.Vector;
 
 /**

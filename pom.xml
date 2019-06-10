@@ -36,7 +36,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>cn.croff.Main</mainClass>
+                                <mainClass>Main</mainClass>
                             </manifest>
                         </archive>
                     </configuration>

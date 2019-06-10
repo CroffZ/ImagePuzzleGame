@@ -1,11 +1,9 @@
-package cn.croff;
-
 import java.util.Random;
 import java.util.Vector;
 
 public class RandomGenerator {
 
-    private Vector moving_directions[];
+    private Vector[] moving_directions;
 
     RandomGenerator() {
         moving_directions = new Vector[9];
